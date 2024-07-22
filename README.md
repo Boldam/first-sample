@@ -1,2 +1,3 @@
 # first-sample
-git-- ls
+git-- ls 1
+git-- add
